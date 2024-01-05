@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Manjaro](https://img.shields.io/badge/manjaro-35bf5c?style=for-the-badge&logo=manjaro&logoColor=ffffff)](https://manjaro.org)
+[![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff)](https://rust-lang.org)
+![C](https://img.shields.io/badge/c-a8b9cc?style=for-the-badge&logo=c&logoColor=ffffff)
+[![NATS](https://img.shields.io/badge/nats-27aae1?style=for-the-badge&logo=nats.io&logoColor=ffffff)](https://nats.io)
 
 <!--
 **ekeew/ekeew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
